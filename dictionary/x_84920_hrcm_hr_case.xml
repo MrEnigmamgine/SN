@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="HR Case" max_length="40" name="x_84920_hrcm_hr_case" type="collection"/>
+</database>
